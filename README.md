@@ -1,1 +1,1 @@
-![OpenGl testing](/assets/images/kokeilu.png)
+![OpenGl testing](/assets/images/kokeilu.PNG)
